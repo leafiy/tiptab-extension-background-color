@@ -1,0 +1,1 @@
+# tiptab-extension-background-color
